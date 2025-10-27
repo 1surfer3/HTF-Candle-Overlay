@@ -6,10 +6,12 @@ This tool is essential for traders conducting **Multi-Timeframe Analysis**, prov
 
 ## ✨ Key Features
 
-* **HTF Structure Overlay:** Visualizes the Open, High, Low, and Close (OHLC) of a selected timeframe (e.g., 1H, 4H, 1D) using precise boxes and lines.
+* **HTF Structure Overlay:** Visualizes the Open, High, Low, and Close (OHLC) of a selected timeframe. Supported timeframes include: **15m, 30m, 1H, 4H, 1D, and 1W**.
 * **Clear Bias Coloring:** Uses **Blue** for Bullish HTF candles and **Red** for Bearish HTF candles.
 * **Real-Time Timer:** Features an optional, customizable label displaying the **time remaining** until the current HTF candle closes, aiding in trade timing.
 * **Performance Optimized:** Built with efficient Pine Script v6 drawing methods (`box.new`, array management) to minimize repainting and maximize performance.
+
+---
 
 ## 📸 Visualization Example
 
