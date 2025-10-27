@@ -15,7 +15,7 @@ This tool is essential for traders conducting **Multi-Timeframe Analysis**, prov
 
 The image below shows the 1-Hour candle structure overlaid onto a lower timeframe, clearly defining the current range boundaries.
 
-![HTF Candles Overlay Indicator in action on TradingView. Blue and Red boxes mark the higher timeframe candle structure.](https://i.imgur.com/ix5JUbG.png)
+![HTF Candles Overlay Indicator in action on TradingView. Blue and Red boxes mark the higher timeframe candle structure.](https://i.imgur.com/AWp8ecy.png)
 
 ---
 
